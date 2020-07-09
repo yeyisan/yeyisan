@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm currently working on a #golang project @kondukto.io
-- 👯 I’m looking to collaborate on #flutter projects
-- 🌱 I’m currently learning #dartlang
-- 📫 How to reach me: yusufeyisan@gmail.com
+- 🔭  I'm currently working on a #golang project @kondukto.io
+- 👯  I’m looking to collaborate on #flutter projects
+- 🌱  I’m currently learning #dartlang
+- 📫  How to reach me: yusufeyisan@gmail.com
 
 
 <!--
