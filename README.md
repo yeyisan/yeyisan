@@ -1,7 +1,5 @@
 ### Hi there 👋
 - 🔭  I'm currently working on #golang projects @kondukto.io
-- 👯  I’m looking to collaborate on #flutter projects
-- 🌱  I’m currently learning #dartlang and #vue-js
 - 📫  How to reach me: yusufeyisan@gmail.com
 
 
